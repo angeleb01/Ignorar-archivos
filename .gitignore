@@ -1,0 +1,16 @@
+#Ignoramos el archivo Screen1
+Screen1.java
+#Ignoramos el archivo Screen2
+Screen2.java
+#Ignoramos el archivo Screen3
+Screen3.java
+#Ignoramos todos los archivos menos data01.csv
+data2/*
+!data01.csv
+#Ignoramos los archivos con extensión tmp
+/*tmp
+#Ignoramos la carpeta config
+/config
+#Ignoramos todos loas archivos con extensión dat execepto los de la carpeta raíz
+*.dat
+!/*.dat
