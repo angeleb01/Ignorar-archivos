@@ -14,3 +14,7 @@ data2/*
 #Ignoramos todos loas archivos con extensión dat execepto los de la carpeta raíz
 *.dat
 !/*.dat
+#Ignoramos los class
+/*.class
+#Ignoramos paaswords.dat
+passwords.dat
